@@ -1,0 +1,32 @@
+
+
+.main-page{
+    box-shadow: 0px 0px 0px 3px black;
+    width: 98%;
+    height: 94vh;
+    padding: 10px;
+    margin: auto;
+}
+
+.top-box{
+    box-shadow: 0px 0px 0px 1px red;
+    padding: 10px;
+}
+
+.top-box-upper{
+    box-shadow: 0px 0px 0px 1px green;
+    padding: 5px;
+}
+
+.top-box-lower{
+    box-shadow: 0px 0px 0px 1px pink;
+    padding: 5px;
+    margin-top: 25px;
+}
+
+.box-inner{
+    background: limegreen;
+    padding: 25px;
+    margin: auto;
+    width: 65%;
+}
